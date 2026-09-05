@@ -45,5 +45,7 @@ Code and data in this repository are released under the MIT License (see
 
 ## Citation
 
-If accepted, please cite the paper. A Zenodo DOI for this repository will be added
-on publication.
+If accepted, please cite the paper. This repository is archived on Zenodo:
+[10.5281/zenodo.22314208](https://doi.org/10.5281/zenodo.22314208) (resolves to
+the latest version; `v1.0.0` is
+[10.5281/zenodo.22314209](https://doi.org/10.5281/zenodo.22314209)).
