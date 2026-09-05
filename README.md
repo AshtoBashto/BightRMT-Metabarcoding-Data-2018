@@ -19,7 +19,7 @@ Monitoring Program.
 - **`figures/`** – output location for the scripts (starts empty).
 - **`KronaPlot.html`** – interactive Krona plot of the mesozooplankton taxonomy,
   viewable at
-  <https://ashtobashto.github.io/BightRMP-Metabarcoding-Data-2018/KronaPlot.html>
+  <https://ashtobashto.github.io/bandy-etal-2026-zooplankton-metabarcoding-oa/KronaPlot.html>
   (made with <https://github.com/marbl/Krona>).
 
 ## Carbonate chemistry
