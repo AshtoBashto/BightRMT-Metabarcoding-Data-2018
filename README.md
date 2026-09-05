@@ -36,7 +36,8 @@ SCCWRP for access.
 ## Reference libraries and raw sequences
 
 Raw sequence reads and FAIRe-formatted sample and molecular metadata are being
-deposited separately; accession information will be added on publication.
+deposited separately (NCBI SRA and/or OBIS); accession information will be
+added here once that submission is complete.
 
 ## License
 
