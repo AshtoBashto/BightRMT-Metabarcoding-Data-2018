@@ -1,0 +1,11 @@
+.DS_Store
+._*
+figures/*
+!figures/.gitkeep
+.Rhistory
+.RData
+*.Rproj.user
+slprj/
+# script intermediates (not part of the shipped data set)
+data/RelabundCO1_clean.csv
+data/TaxonomyTraits_aligned.csv

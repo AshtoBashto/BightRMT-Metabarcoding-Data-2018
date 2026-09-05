@@ -1,0 +1,267 @@
+﻿Order,CalcifierGeneral,CalcifierLarval,CalcifierAdult,StructureLarval,StructureAdult,MineralForm,PlanktonicLifeHistory,Removal,Description
+Acochlidiacea,No,No,No,None,None,None,Benthic,No,Shell-less freshwater and marine gastropods
+Actiniaria,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Sea anemones
+Adapedonta,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Burrowing clams
+Amphilepidida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Meroplanktonic,No,Brittle stars
+Amphipoda,Variable,Yes,Yes,Exoskeleton,Exoskeleton,Chitin + Calcium,Benthic + Holoplanktonic,No,Amphipods
+Anthoathecata,No,No,No,None,None,None,Benthic + Holoplanktonic,No,Colonial hydroids and small medusae
+Aphragmophora,No,No,No,None,None,None,Holoplanktonic,No,Chaetognaths (arrow worms)
+Aplustridae,Yes,Yes,Yes,External shell,External shell,Aragonite,Meroplanktonic,No,Bubble snails
+Aplysiida,Yes,Yes,No,External shell,Internal shell,Aragonite,Meroplanktonic,No,Sea hares
+Archinemertea,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Ribbon worms (marine benthic)
+Argentiniformes,No,No,No,None,None,None,Meroplanktonic,No,Deep-sea smelts and related fish
+Aulopiformes,No,No,No,None,None,None,Meroplanktonic,No,Lizardfish and deep-sea teleosts
+Balanomorpha,Yes,Yes,Yes,External shell,External shell,Calcite,Meroplanktonic,No,Barnacles
+Biemnida,No,No,No,None,None,None,Meroplanktonic,No,Marine sponges
+Blenniiformes,No,No,No,None,None,None,Meroplanktonic,No,Blennies and combtooth fishes
+Calanoida,Variable,Variable,Variable,Exoskeleton,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Copepods
+Camarodonta,Yes,Yes,Yes,Internal skeleton,Exoskeleton,Calcite,Meroplanktonic,No,Sea urchins
+Capitellidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Marine bristle worms (mud-dwelling)
+Cardiida,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Clams
+Cephalaspidea,Variable,Yes,Yes,External shell,External shell,Aragonite,Meroplanktonic,No,Bubble snails
+Cestida,No,No,No,None,None,None,Holoplanktonic,No,Ribbon comb jellies
+Chaetopteridae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Tube-dwelling marine polychaetes
+Cheilostomatida,Yes,Yes,Yes,External shell,External shell,Calcite,Meroplanktonic,No,Encrusting bryozoans
+Clupeiformes,No,No,No,None,None,None,Meroplanktonic,No,Anchovies and herrings
+Clypeasteroida,Yes,Yes,Yes,Exoskeleton,Exoskeleton,Calcite,Meroplanktonic,No,Sand dollars
+Corallimorpharia,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Soft-bodied coral relatives
+Cyclopoida,Variable,Variable,Variable,Exoskeleton,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Cyclopoid copepods
+Cydippida,No,No,No,None,None,None,Holoplanktonic,No,Comb jellies (round-bodied ctenophores)
+Decapoda,Variable,No,Variable,None,Exoskeleton,Calcite,Meroplanktonic,No,"Crabs, lobsters, shrimp"
+Dendrochirotida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Meroplanktonic,No,Sea cucumbers
+Ellobiida,Variable,Yes,Variable,External shell,Variable,Aragonite,Meroplanktonic,No,Salt marsh snails
+Enchytraeida,No,No,No,None,None,None,Benthic + Freshwater,No,Potworms (small oligochaetes)
+Epitoniidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Meroplanktonic,No,Wentletraps (small predatory snails)
+Eunicida,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Marine bristle worms (polychaetes)
+Euphausiacea,Variable,No,Variable,None,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Krill
+Forcipulatida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Meroplanktonic,No,Starfish
+Gadiformes,No,No,No,None,None,None,Meroplanktonic,No,Cods and grenadiers
+Galeommatida,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Small clams and bivalves
+Gobiiformes,No,No,No,None,None,None,Meroplanktonic,No,Gobies and dartfish
+Golfingiida,No,No,No,None,None,None,Benthic,No,Peanut worms (sipunculans)
+Halocyprida,Variable,No,Variable,None,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Ostracods (seed shrimp)
+Harpacticoida,Variable,Variable,Variable,Exoskeleton,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Harpacticoid copepods
+Heteronemertea,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Ribbon worms (marine benthic)
+Hubrechtidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Ribbon worms (marine nemerteans)
+Isopoda,Variable,No,Variable,None,Exoskeleton,Chitin + Calcium,Benthic + Meroplanktonic,No,Isopods
+Lepadidae,Yes,Variable,Yes,External shell,External shell,Chitin + Calcium,Meroplanktonic,No,Goose barnacles
+Lepidopleurida,Variable,No,Yes,None,External shell,Aragonite,Meroplanktonic,No,Primitive chitons
+Leptothecata,No,No,No,None,None,None,Benthic + Holoplanktonic,No,Hydroids
+Limapontiidae,Variable,Variable,No,External shell,None,Aragonite,Meroplanktonic,No,Sap-sucking sea slugs
+Littorinimorpha,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Periwinkles and related snails
+Lutjaniformes,No,No,No,None,None,None,Meroplanktonic,No,Snappers and grunts
+Maldanidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Bamboo worms (tube-dwelling polychaetes)
+Monostilifera,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Ribbon worms (with a single stylet)
+Myctophiformes,No,No,No,None,None,None,Meroplanktonic,No,Lanternfishes
+Myopsida,Variable,Yes,No,Statoliths,None,Aragonite,Meroplanktonic,No,Coastal squid
+Mytilida,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Mussels
+Narcomedusae,No,No,No,None,None,None,Holoplanktonic,No,Deep-sea jellyfish
+Neogastropoda,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Meroplanktonic,No,Whelks and predatory snails
+Nudibranchia,Variable,Variable,No,External shell,None,Aragonite,Meroplanktonic,No,Shell-less sea slugs
+Octopoda,Variable,Yes,No,Statoliths,None,Aragonite,Meroplanktonic,No,Octopi
+Oegopsida,Variable,Yes,No,Statoliths,None,Aragonite,Meroplanktonic,No,Squid
+Opheliidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Marine polychaete worms
+Paxillosida,Variable,No,Yes,None,Internal skeleton,Calcite,Meroplanktonic,No,Starfish without suckers
+Pempheriformes,No,No,No,None,None,None,Meroplanktonic,No,Sweepers and related reef fish
+Pennatulacea,Variable,No,Variable,None,Internal skeleton,Calcite,Meroplanktonic,No,Sea pens and sea pansies
+Perciformes,No,No,No,None,None,None,Meroplanktonic,No,Perch-like fishes (most diverse fish group)
+Phascolosomatiformes,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Peanut worms (marine unsegmented worms)
+Phlebobranchia,No,No,No,None,None,None,Meroplanktonic,No,Sea squirts (tunicates)
+Phoronidae,Yes,Yes,Yes,External tube,External tube,Chitin + Calcium,Meroplanktonic,No,Horseshoe worms (tube-dwelling lophophorates)
+Phyllodocida,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Active marine polychaetes
+Plakobranchidae,Variable,Variable,No,External shell,None,Aragonite,Meroplanktonic,No,Sacoglossan sea slugs (sap-sucking)
+Pleuronectiformes,No,No,No,None,None,None,Meroplanktonic,No,"Flatfishes (flounders, soles, halibut)"
+Poecilostomatoida,Variable,Variable,Variable,Exoskeleton,Exoskeleton,Chitin + Calcium,Holoplanktonic,No,Parasitic or predatory copepods
+Pollicipedomorpha,Variable,Variable,Yes,Exoskeleton,Exoskeleton,Chitin + Calcium,Meroplanktonic,No,Stalked barnacles
+Polycladida,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Free-living marine flatworms
+Pomacentridae,No,No,No,None,None,None,Meroplanktonic,No,Damselfish (reef-associated)
+Pteropoda,Yes,Yes,Yes,External shell,External shell,Aragonite,Holoplanktonic,No,Sea butterflies
+Rhodopidae,Variable,Variable,No,External shell,None,None,Meroplanktonic,No,Worm-like shell-less gastropods
+Sabellida,Variable,Variable,Variable,External tube,External tube,Aragonite,Benthic + Meroplanktonic,No,Fan worms and feather duster worms
+Sciaenidae,No,No,No,None,None,None,Meroplanktonic,No,Drums and croakers (marine fish)
+Scleractinia,Yes,Yes,Yes,Exoskeleton,Exoskeleton,Aragonite,Meroplanktonic,No,Stony corals
+Scombriformes,No,No,No,None,None,None,Meroplanktonic,No,Mackerels and tunas
+Semaeostomeae,No,No,No,None,None,None,Holoplanktonic,No,"Large jellyfish (e.g., moon jellies)"
+Siphonariida,Variable,Variable,Variable,External shell,External shell,Aragonite,Meroplanktonic,No,False limpets (air-breathing marine snails)
+Siphonophorae,No,No,No,None,None,None,Holoplanktonic,No,"Colonial hydrozoans (e.g., Portuguese man o' war)"
+Spatangoida,Yes,Yes,Yes,Internal skeleton,Exoskeleton,Calcite,Meroplanktonic,No,Heart urchins
+Spionida,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Marine worms (sediment burrowers)
+Stomatopoda,Variable,No,Variable,None,Exoskeleton,Chitin + Calcium,Meroplanktonic,No,Mantis shrimps
+Stomiiformes,No,No,No,None,None,None,Meroplanktonic,No,"Deep-sea fishes (e.g., dragonfishes)"
+Temnopleuroida,Yes,Yes,Yes,Internal skeleton,Exoskeleton,Calcite,Meroplanktonic,No,Short-spined sea urchins
+Terebellida,Variable,Variable,Variable,External tube,External tube,None,Benthic + Meroplanktonic,No,Spaghetti worms (tube-building polychaetes)
+Trachymedusae,No,No,No,None,None,None,Holoplanktonic,No,Deep-sea jellyfish
+Tubificida,No,No,No,None,None,None,Benthic + Freshwater,No,Aquatic worms (sludge worms)
+Tubulaniformes,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Unsegmented ribbon worms (nemerteans)
+Valvatida,Variable,No,Yes,None,Internal skeleton,Calcite,Meroplanktonic,No,Sea stars
+Ceramiales,No,No,No,None,None,None,Benthic,Yes non-target,Red algae
+Anaulales,No,No,No,None,None,None,Protist,Yes non-target,Protists (amoeboid with unclear ecology)
+Bacillariales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Pennate diatoms
+Batrachospermales,No,No,No,None,None,None,Benthic + Freshwater,Yes non-target,Freshwater red algae
+Biddulphiales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Centric diatoms
+Chaetocerotales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Diatoms
+Chattonellales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Harmful bloom-forming algae
+Chlorellales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Green algae (unicellular)
+Chloropicales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Tiny marine green algae
+Coscinodiscales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Centric diatoms
+Cymatosirales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Small centric diatoms
+Cymbellales,No,No,No,None,None,Silica,Benthic + Freshwater,Yes non-target,Freshwater pennate diatoms
+Dactylopodida,No,No,No,None,None,None,Benthic + Protist,Yes non-target,Amoeboid protists (marine/freshwater)
+Dictyochales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Silicoflagellates
+Dictyotales,No,No,No,None,None,None,Benthic,Yes non-target,Brown algae (macroalgae)
+Dolichomastigales,No,No,No,None,None,None,Planktonic,Yes non-target,Marine heterokont flagellates
+Dothideales,No,No,No,None,None,None,Fungal,Yes non-target,Terrestrial or aquatic fungi
+Ectocarpales,No,No,No,None,None,None,Benthic,Yes non-target,Brown algae (filamentous)
+Eustigmatales,No,No,No,None,None,None,Planktonic,Yes non-target,Small yellow-green algae
+Florenciellales,No,No,No,None,None,None,Planktonic,Yes non-target,Tiny heterotrophic flagellates
+Fragilariales,No,No,No,None,None,Silica,Benthic + Planktonic,Yes non-target,Freshwater and marine diatoms
+Fucales,No,No,No,None,None,None,Benthic,Yes non-target,Brown algae (kelps and rockweeds)
+Gigartinales,No,No,No,None,None,None,Benthic,Yes non-target,Red macroalgae
+Gomphales,No,No,No,None,None,None,Fungal,Yes non-target,Coral fungi (terrestrial)
+Haptoglossa,No,No,No,None,None,None,Protist,Yes non-target,Fungal-like protists (parasitic)
+Helotiales,No,No,No,None,None,None,Fungal,Yes non-target,Ascomycete fungi (plant-associated or decomposers)
+Hemiaulales,No,No,No,None,None,Silica,Planktonic,Yes non-target,Chain-forming marine diatoms
+Himatismenida,No,No,No,None,None,None,Benthic + Protist,Yes non-target,Amoeboid protists with shells
+Hyphomicrobiales,No,No,No,None,None,None,Microbial,Yes non-target,Aquatic and soil bacteria
+Isochrysidales,Yes,Yes,Yes,Coccoliths,Coccoliths,Calcite,Holoplanktonic,Yes non-target,Coccolithophores (calcifying algae)
+Laminariales,No,No,No,None,None,None,Benthic,Yes non-target,Kelp and large brown algae
+Lithodesmiales,No,No,No,None,None,Silica,Planktonic,Yes non-target,Planktonic diatoms with ornate silica frustules
+Malasseziales,No,No,No,None,None,None,Fungal,Yes non-target,Lipid-dependent fungi (often skin-associated)
+Mamiellales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,"Tiny green algae (e.g., Ostreococcus)"
+Melosirales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Colonial centric diatoms
+Mycosphaerellales,No,No,No,None,None,None,Fungal,Yes non-target,Plant-pathogenic or symbiotic fungi
+Myzocytiopsidales,No,No,No,None,None,None,Fungal,Yes non-target,Parasitic water molds (oomycetes)
+Naviculales,No,No,No,None,None,Silica,Benthic,Yes non-target,Elongate pennate diatoms
+Pelagomonadales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Tiny planktonic algae
+Peronosporales,No,No,No,None,None,None,Fungal,Yes non-target,Downy mildews (fungal-like plant pathogens)
+Phaeocystales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,"Colonial haptophyte algae (e.g., Phaeocystis)"
+Ploima,No,No,No,None,None,None,Benthic + Holoplanktonic,Yes non-target,Planktonic rotifers
+Prasinodermales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Primitive green algae
+Prymnesiales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Haptophyte algae (often bloom-forming)
+Pycnococcaceae,No,No,No,None,None,None,Planktonic,Yes non-target,Tiny unicellular green algae
+Pythiales,No,No,No,None,None,None,Fungal,Yes non-target,Plant pathogenic water molds
+Rhizosoleniales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Diatoms
+Saprolegniales,No,No,No,None,None,None,Fungal,Yes non-target,Water molds (aquatic fungal-like organisms)
+Stephanodiscales,No,No,No,None,None,Silica,Freshwater + Planktonic,Yes non-target,Planktonic freshwater diatoms
+Syndiniales,No,No,No,None,None,None,Planktonic,Yes non-target,Parasitic dinoflagellates
+Thalassionemales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Diatoms (thin and elongated)
+Thalassiosirales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Centric diatoms (common in marine plankton)
+Thraustochytrida,No,No,No,None,None,None,Fungal,Yes non-target,Marine protists (oil-producing)
+fungal,No,,,,,,,Yes non-target,
+NA,,,,,,,,Yes non-target,
+Architaenioglossa,Yes,Yes,Yes,External shell,External shell,Aragonite,Meroplanktonic,Yes terrestrial,Land and freshwater snails
+Agaricales,No,No,No,None,None,None,Fungal + Terrestrial,Yes terrestrial,Mushrooms and gilled fungi (terrestrial)
+Agaricostilbales,No,No,No,None,None,None,Fungal,Yes terrestrial,Parasitic or saprophytic fungi
+Araneae,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Spiders (terrestrial)
+Chaetothyriales,No,No,No,None,None,None,Fungal,Yes terrestrial,Black yeasts (terrestrial or marine fungi)
+Charadriiformes,No,No,No,None,None,None,Avian + Terrestrial,Yes terrestrial,"Shorebirds (e.g. gulls, plovers)"
+Chordeumatida,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Millipedes (terrestrial arthropods)
+Cladosporiales,No,No,No,None,None,None,Fungal,Yes terrestrial,Saprophytic or plant-associated fungi
+Coleoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Beetles (terrestrial)
+Crassiclitellata,No,No,No,None,None,None,Freshwater + Terrestrial,Yes terrestrial,Earthworms and related oligochaetes (terrestrial)
+Diplostraca,Variable,No,Variable,None,Exoskeleton,Chitin + Calcium,Freshwater + Holoplanktonic,Yes terrestrial,Water fleas
+Diptera,No,No,No,None,None,None,Freshwater + Terrestrial,Yes terrestrial,Flies and mosquitoes (terrestrial/freshwater)
+Ephemeroptera,No,No,No,None,None,None,Freshwater,Yes terrestrial,Mayflies (aquatic larvae)
+Euonychophora,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Velvet worms (terrestrial)
+Hemiptera,No,No,No,None,None,None,Freshwater + Terrestrial,Yes terrestrial,"True bugs (e.g. aphids, cicadas; terrestrial)"
+Hymenoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,"Ants, bees, wasps (terrestrial)"
+Ixodida,No,No,No,None,Exoskeleton,None,Terrestrial,Yes terrestrial,Ticks (terrestrial arachnids)
+Lepidoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Butterflies and moths (terrestrial)
+Mecoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Scorpionflies (terrestrial insects)
+Mesostigmata,No,No,No,None,None,None,Freshwater + Terrestrial,Yes terrestrial,Predatory mites (terrestrial/freshwater)
+Neuroptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Lacewings and antlions (terrestrial)
+Orthoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,"Grasshoppers, crickets (terrestrial)"
+Planorbidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Freshwater + Meroplanktonic,Yes terrestrial,Air-breathing freshwater snails
+Plecoptera,No,No,No,None,None,None,Freshwater,Yes terrestrial,"Stoneflies (aquatic nymphs, terrestrial adults)"
+Psocoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Booklice and barklice (terrestrial insects)
+Rodentia,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Rodents (terrestrial mammals)
+Sarcoptiformes,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Mites and ticks (terrestrial)
+Scutigeromorpha,No,No,No,None,None,None,Terrestrial,Yes terrestrial,House centipedes (terrestrial)
+Solifugae,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Wind scorpions or camel spiders (terrestrial)
+Stylommatophora,Yes,Yes,Yes,External shell,External shell,Aragonite,Terrestrial,Yes terrestrial,Land snails and slugs
+Thysanoptera,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Thrips (tiny plant pests)
+Apodida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Benthic + Meroplanktonic,No,"Sea cucumbers (soft-bodied, no tube feet)"
+Asparagales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,"Flowering plants (e.g., orchids, irises)"
+Aspidochirotida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Benthic + Meroplanktonic,No,"Sea cucumbers (tentacled, thick-bodied)"
+Blastocladiales,No,No,No,None,None,None,Unicellular/Planktonic,Yes non-target,Aquatic fungi (flagellated spores)
+Carinomiformes,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Ribbon worms (marine)
+Ceriantharia,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Tube anemones (marine cnidarians)
+Diadematoida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Benthic + Meroplanktonic,No,Sea urchins (hollow spines)
+Doliolida,No,No,No,None,None,None,Holoplanktonic,No,Barrel tunicates (planktonic)
+Echinothurioida,Yes,Yes,Yes,Internal skeleton,Internal skeleton,Calcite,Benthic + Meroplanktonic,No,Deep-sea sea urchins
+Echiuroidea,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Spoon worms (marine burrowers)
+Exobasidiales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Plant-parasitic fungi
+Flavobacteriales,No,No,No,None,None,None,Unicellular/Planktonic,Yes non-target,Marine bacteria (organic matter decomposers)
+Gracilariales,No,No,No,None,None,None,Benthic,Yes non-target,Red algae (agar source)
+Hypocreales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,"Brightly colored fungi (pathogens, endophytes)"
+Labriformes,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Wrasses and parrotfishes
+Lecanorales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Lichen-forming fungi
+Malawimonadida,No,No,No,None,None,None,Unicellular/Planktonic,Yes non-target,Flagellated protists
+Nemastomatales,No,No,No,None,None,None,Benthic,Yes non-target,Red algae (marine)
+Odonata,No,No,No,None,None,None,Freshwater,Yes terrestrial,Dragonflies and damselflies
+Parmales,No,No,No,None,None,Silica,Unicellular/Planktonic,Yes non-target,Siliceous picoplankton (algae)
+Poecilosclerida,No,No,No,None,None,Silica,Benthic,No,Demosponges (benthic)
+Pseudoscorpiones,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Pseudoscorpions (tiny arachnids)
+Ptychoderidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Acorn worms (marine hemichordates)
+Pyramidellidae,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Benthic + Meroplanktonic,No,Parasitic snails
+Rhodymeniales,No,No,No,None,None,None,Benthic,Yes non-target,"Red algae (branched, marine)"
+Salpida,No,No,No,None,None,None,Holoplanktonic,No,Salps (planktonic tunicates)
+Sphacelariales,No,No,No,None,None,None,Benthic,Yes non-target,Brown algae (marine)
+Sphyraenidae,No,No,No,None,None,None,Benthic + Meroplanktonic,No,Barracudas (predatory fish)
+Telonemida,No,No,No,None,None,Chitin,Unicellular/Planktonic,No,Flagellated protists (rare)
+Trichoptera,No,No,No,None,None,Chitin,Freshwater,Yes non-target,Caddisflies (aquatic larvae)
+Trichosporonales,No,No,No,None,None,None,Terrestrial,Yes non-target,Yeast-like fungi
+Trochida,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Benthic + Meroplanktonic,No,Top snails and allies
+Trombidiformes,No,No,No,None,None,Chitin,Terrestrial,Yes terrestrial,Mites (diverse terrestrial group)
+Polyarthra,Variable,Variable,Variable,Exoskeleton,Exoskeleton,Chitin + Calcium,Benthic + Meroplanktonic,No,Copepods (Canuelloida; recorded as Polyarthra in this dataset)
+Boselliidae,Variable,Variable,No,External shell,None,Aragonite,Meroplanktonic,No,Sap-sucking sea slugs (Bosellia and allies)
+Phragmophora,No,No,No,None,None,None,Benthic + Holoplanktonic,No,Arrow worms (benthic and planktonic chaetognaths)
+Pseudoscourfieldiales,No,No,No,None,None,None,Planktonic,Yes non-target,Small green algae (marine picoplankton)
+Entomobryomorpha,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Elongate-bodied springtails
+Sellaphorales,No,No,No,None,None,Silica,Benthic,Yes non-target,Raphid pennate diatoms (Sellaphora and allies)
+Haptoglossaceae,No,No,No,None,None,None,Protist,Yes non-target,Parasitic oomycetes (Haptoglossa and allies)
+Rhaphoneidales,No,No,No,None,None,Silica,Benthic + Planktonic,Yes non-target,Marine pennate diatoms (including Asterionellopsis)
+Opiliones,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Harvestmen (terrestrial arachnids)
+Macrodasyida,No,No,No,None,None,None,Benthic,No,Interstitial gastrotrichs (marine meiofauna)
+Actinulida,No,No,No,None,None,None,Benthic,No,Interstitial hydrozoans (sand-dwelling cnidarians)
+Sepiida,Yes,Yes,Yes,Statoliths,Internal shell,Aragonite,Benthic,No,Cuttlefish (aragonitic internal cuttlebone)
+Boletales,No,No,No,None,None,None,Fungal + Terrestrial,Yes terrestrial,Boletes and related terrestrial fungi
+Acteonidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Benthic + Meroplanktonic,No,Bubble snails (Acteon and Rictaxis)
+Longamoebia,No,No,No,None,None,None,Benthic + Protist,Yes non-target,Amoeboid protists (discosean amoebae)
+Symphypleona,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Globular springtails
+Mucorales,No,No,No,None,None,None,Fungal,Yes non-target,Molds (mucoralean fungi)
+Pachychilidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Benthic + Freshwater,Yes terrestrial,Freshwater snails (pachychilids)
+Haplosclerida,Variable,No,Variable,None,Internal skeleton,Silica,Benthic + Meroplanktonic,No,Demosponges (mostly siliceous; rare calcified forms)
+Scleralcyonacea,Variable,No,Variable,None,Internal skeleton,Calcite,Meroplanktonic,No,Sea pens (sampled Scleralcyonacea lineages)
+Eucampiales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Centric diatoms (Eucampia and allies)
+Psocodea,No,No,No,None,None,None,Terrestrial,Yes terrestrial,"Booklice, barklice and parasitic lice"
+Rhynchobdellida,No,No,No,None,None,None,Benthic + Freshwater,No,Jawless leeches (marine and freshwater lineages)
+Lecideales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Lichen-forming fungi (Lecidea and allies)
+Tethyida,No,No,No,None,None,Silica,Benthic + Meroplanktonic,No,Demosponges (Tethya and related siliceous sponges)
+Plagiogrammales,No,No,No,None,None,Silica,Benthic,Yes non-target,Marine benthic pennate diatoms
+Cycloneritida,Yes,Yes,Yes,External shell,External shell,Aragonite/Calcite,Benthic + Meroplanktonic,No,Nerites and related snails
+Polydesmida,Yes,Yes,Yes,Exoskeleton,Exoskeleton,Chitin + Calcium,Terrestrial,Yes terrestrial,Flat-backed millipedes (calcified cuticle)
+Lobata,No,No,No,None,None,None,Holoplanktonic,No,Lobed comb jellies (ctenophores)
+Scorpiones,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Scorpions (terrestrial arachnids)
+Pyramimonadales,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Green flagellates (Pyramimonas and allies)
+Cryptomonadales,No,No,No,None,None,None,Planktonic,Yes non-target,Cryptophyte algae (photosynthetic flagellates)
+Synurales,No,No,No,None,None,Silica,Freshwater + Planktonic,Yes non-target,Silica-scaled chrysophyte algae
+Potamididae,Yes,Yes,Yes,External shell,External shell,Aragonite,Benthic + Meroplanktonic,No,Mud snails (estuarine and mangrove-associated)
+Picochlorum,No,No,No,None,None,None,Holoplanktonic,Yes non-target,Small green algae (Picochlorum)
+Cocculinidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Benthic + Meroplanktonic,No,Deep-sea limpets (organic-fall-associated)
+Ralfsiales,No,No,No,None,None,None,Benthic,Yes non-target,Crustose brown algae
+Peyssonneliales,Variable,No,Variable,None,Variable,Aragonite,Benthic,Yes non-target,Crustose red algae (variably calcified)
+Bangiales,No,No,No,None,None,None,Benthic,Yes non-target,Red algae (laver and filamentous relatives)
+Candelariales,No,No,No,None,None,None,Terrestrial,Yes terrestrial,Lichen-forming fungi (Candelaria and allies)
+Ancylidae,Yes,Yes,Yes,External shell,External shell,Aragonite,Benthic + Freshwater,Yes terrestrial,Freshwater limpets (ancylids)
+Rickettsiales,No,No,No,None,None,None,Microbial,Yes non-target,Bacteria (many intracellular symbionts and parasites)
+Thalassionematales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Pennate diatoms (Thalassionema and allies)
+Rhipidiales,No,No,No,None,None,None,Fungal,Yes non-target,Aquatic water molds (saprotrophic oomycetes)
+Cantharellales,No,No,No,None,None,None,Fungal,Yes non-target,Chanterelles and related basidiomycete fungi
+Limnomedusae,No,No,No,None,None,None,Holoplanktonic,No,Hydromedusae (sampled Liriope tetraphylla)
+Goniomonadida,No,No,No,None,None,None,Planktonic,Yes non-target,Heterotrophic cryptophyte flagellates
+Stephanopyxales,No,No,No,None,None,Silica,Holoplanktonic,Yes non-target,Chain-forming centric diatoms (Stephanopyxis)
+Lingulida,No,No,No,External shell,External shell,Calcium phosphate,Meroplanktonic,No,Lingulid brachiopods (calcium-phosphate shells)
+Polystilifera,No,No,No,None,None,None,Benthic + Holoplanktonic,No,Ribbon worms (benthic and pelagic polystiliferans)
+Candidatus Pelagibacterales,No,No,No,None,None,None,Microbial,Yes non-target,Bacterioplankton (SAR11 and related lineages)
+Chromulinales,No,No,No,None,None,Silica,Planktonic,Yes non-target,Chrysophyte flagellates (some with siliceous stages)
